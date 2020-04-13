@@ -17,7 +17,7 @@ Toate videoclipurile vor fi în format MPEG-4 (MP4 😉).
       # descarca repo
 $ git clone https://github.com/print-alex/FVD.git
 
-    # dute drq in folder./ FVD (Facebook Video Downloader)
+    # jump in the fucking folder./ FVD (Facebook Video Downloader)
 $ cd FVD
 
   # instaleaza requirements 
