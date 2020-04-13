@@ -107,7 +107,7 @@ try:
                         t.update(len(data))
                         f.write(data)
                 t.close()
-                print("Treaba Buna - gata descarcarea")
+                print("Treaba Buna - Spor La |Laba@:))")
             if _input_2 == 'N':
                 exit()
 except(KeyboardInterrupt):
