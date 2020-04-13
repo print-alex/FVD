@@ -40,7 +40,7 @@ for id,val in enumerate(_thelist):
 try:
     if len(list) == 2:
         if 0 in list and 1 in list:
-            _input_1 = str(input("\nPress 'A' to download the video in HD quality.\nPress 'B' to download the video in SD quality\n: ")).upper()
+            _input_1 = str(input("\nApasa 'A' sa descarci video in HD.\nApasa 'B' sa descarci video in SD \n: ")).upper()
             if _input_1 == 'A':
                 print("\nDownloading the video in HD quality")
                 video_url = re.search(r'hd_src:"(.+?)"', html).group(1)
@@ -54,7 +54,7 @@ try:
                         t.update(len(data))
                         f.write(data)
                 t.close()
-                print("Video downloaded successfully")   
+                print("Treaba Buna - gata descarcarea")   
 
             if _input_1 == 'B':
                 print("\nDownloading the video in SD quality")
@@ -69,7 +69,7 @@ try:
                         t.update(len(data))
                         f.write(data)
                 t.close()
-                print("Video downloaded successfully")   
+                print("Treaba Buna - gata descarcarea")   
 
     if len(list) == 2:
         if 1 in list and 2 in list:
@@ -87,7 +87,7 @@ try:
                         t.update(len(data))
                         f.write(data)
                 t.close()
-                print("Video downloaded successfully")
+                print("Treaba Buna - gata descarcarea")
             if _input_2 == 'N':
                 exit()
 
@@ -107,7 +107,7 @@ try:
                         t.update(len(data))
                         f.write(data)
                 t.close()
-                print("Video downloaded successfully")
+                print("Treaba Buna - gata descarcarea")
             if _input_2 == 'N':
                 exit()
 except(KeyboardInterrupt):
