@@ -14,9 +14,6 @@ Toate videoclipurile vor fi în format MPEG-4 (MP4 😉).
 
 ![FVD](https://user-images.githubusercontent.com/63598548/79155330-dd6c1280-7dc8-11ea-9995-5c090ec5b92a.gif)
 
- <iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=3iUAHf7Knpo">
-</iframe> 
 Folositor si rapid in drum spre aeroport ,.pana la 5G ,.download fast what you want :)) 
 
 ### Git Installation
