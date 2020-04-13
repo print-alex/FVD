@@ -35,8 +35,8 @@ Vizionare Placuta...by AlexSavu aka :@nas @spamforlife @viper @intelligent_fraud
 ```
 
 ### Support & Contributions
-- Please ⭐️ this repository if this project helped you!
-- Contributions of any kind welcome! 
+- Te rog ⭐️ acest sript daca te-a ajutat cu ceva !
+- Contributii de orice fel sunt bine venite :D! 
 
 ## License
 GPL-3.0 ©[alex-savu](https://github.com/print-alex/)
