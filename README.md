@@ -18,14 +18,14 @@ Toate videoclipurile vor fi în format MPEG-4 (MP4 😉).
 $ git clone https://github.com/print-alex/FVD.git
 
 # change the working directory to Facebook-Video-Downloader
-$ cd Facebook-Video-Downloader
+$ cd FVD
 
 # install the requirements
 $ pip3 install -r requirements.txt
 ```
 ## Usage
 ```
-python downloader.py
+python descarca.py
 ```
 
 ### Support & Contributions
