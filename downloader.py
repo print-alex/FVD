@@ -13,7 +13,7 @@ ______                _       _                       ______ _
                                                                    (____/ 
                                                      [by Alex Stefan Savu]
   
-  Pentru obositi: https://github.com/print-alex/root
+  Pentru obositi: https://github.com/print-alex/FVD
 
 ''')
 
