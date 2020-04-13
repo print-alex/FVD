@@ -23,7 +23,7 @@ x = re.match(r'^(https:|)[/][/]www.([^/]+[.])*facebook.com', url)
 if x:
     html = requests.get(url).content.decode('utf-8')
 else:
-    print("Facebook Nene Nu Youtube Nu Alcva. FB Ai Inteles In Plm ??? Beleste ochii k daca nu belesti ....")
+    print("Facebook Nene Nu Youtube Nu Alcva. FB Ai Inteles In Plm ???")
     exit()
 
 _qualityhd = re.search('hd_src:"https', html)
