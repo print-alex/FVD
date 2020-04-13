@@ -6,11 +6,13 @@
 
 Facebook Video Downloader este un script simplu scris în python, care vă permite să descărcați și să salvați videoclipurile preferate din Facebook pe computerul dvs., în calitate HD (High Defination) sau în calitate SD (Definiție Standard).
 
+-- Python Learning -- Python Learning -- 
+
 În funcție de calitatea disponibilă a videoclipului, scriptul extrage linkuri video de calitate HD și calitate SD. Puteți alege să descărcați orice doriți. Cu toate acestea, în unele cazuri, singura calitate disponibilă este SD.
 
 Toate videoclipurile vor fi în format MPEG-4 (MP4 😉).
 
-
+Folositor si rapid in drum spre aeroport ,.pana la 5G ,.download fast what you want :)) 
 
 ### Git Installation
 ```
