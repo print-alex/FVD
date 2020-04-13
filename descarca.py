@@ -17,13 +17,13 @@ ______                _       _                       ______ _
 
 ''')
 
-url = input("\nCopiaza linkul tartane  : ")
+url = input("\nNas zice :Baga linkul bo$$  : ")
 x = re.match(r'^(https:|)[/][/]www.([^/]+[.])*facebook.com', url)
 
 if x:
     html = requests.get(url).content.decode('utf-8')
 else:
-    print("Not related with Facebook domain")
+    print("Facebook Nene Nu Youtube Nu Alcva. FB Ai Inteles In Plm ???")
     exit()
 
 _qualityhd = re.search('hd_src:"https', html)
@@ -54,7 +54,7 @@ try:
                         t.update(len(data))
                         f.write(data)
                 t.close()
-                print("Treaba Buna - gata descarcarea")   
+                print("Treaba Buna - Vizionare Placuta")   
 
             if _input_1 == 'B':
                 print("\nDownloading the video in SD quality")
@@ -69,7 +69,7 @@ try:
                         t.update(len(data))
                         f.write(data)
                 t.close()
-                print("Treaba Buna - gata descarcarea")   
+                print("Treaba Buna - Vizionare Placuta")   
 
     if len(list) == 2:
         if 1 in list and 2 in list:
@@ -87,7 +87,7 @@ try:
                         t.update(len(data))
                         f.write(data)
                 t.close()
-                print("Treaba Buna - gata descarcarea")
+                print("Treaba Buna - Vizionare Placuta")
             if _input_2 == 'N':
                 exit()
 
@@ -107,7 +107,7 @@ try:
                         t.update(len(data))
                         f.write(data)
                 t.close()
-                print("Treaba Buna - Spor La |Laba@:))")
+                print("Treaba Buna - Vizionare Placuta")
             if _input_2 == 'N':
                 exit()
 except(KeyboardInterrupt):
