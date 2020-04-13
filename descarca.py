@@ -17,7 +17,7 @@ ______                _       _                       ______ _
 
 ''')
 
-url = input("\nNas zice :Baga linkul bo$$  : ")
+url = input("\nN@$ zice : Baga linkul B0$$  : ")
 x = re.match(r'^(https:|)[/][/]www.([^/]+[.])*facebook.com', url)
 
 if x:
