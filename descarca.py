@@ -17,7 +17,7 @@ ______                _       _                       ______ _
 
 ''')
 
-url = input("\nBaga linkul narodule gen facebook.com/trebuiesafievideo: ")
+url = input("\nCopiaza linkul tartane  : ")
 x = re.match(r'^(https:|)[/][/]www.([^/]+[.])*facebook.com', url)
 
 if x:
