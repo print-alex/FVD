@@ -12,9 +12,9 @@ print(r'''
 /    |    \  |_\  ___/ >    <   /        \/ __ \\   /|  |  /  /        \|  | \  ___/|  |   / __ \|   |  \
 \____|__  /____/\___  >__/\_ \ /_______  (____  /\_/ |____/  /_______  /|__|  \___  >__|  (____  /___|  /
         \/          \/      \/         \/     \/                     \/           \/           \/     \/ 
-                                                            [Ale Stefan]
+                                                            [Alex Stefan Savu]
   
-  Also check Instasave: https://github.com/sameera-madushan/InstaSave
+  Also check Instasave: https://github.com/print-alex/root
 
 ''')
 
