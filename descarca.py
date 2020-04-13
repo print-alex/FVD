@@ -40,7 +40,7 @@ for id,val in enumerate(_thelist):
 try:
     if len(list) == 2:
         if 0 in list and 1 in list:
-            _input_1 = str(input("\nApasa 'A' sa descarci video in HD.\nApasa 'B' sa descarci video in SD \n: ")).upper()
+            _input_1 = str(input("\nApasa 'A' pentru HD.\nApasa 'B' pentru SD \n: ")).upper()
             if _input_1 == 'A':
                 print("\nDownloading the video in HD quality")
                 video_url = re.search(r'hd_src:"(.+?)"', html).group(1)
