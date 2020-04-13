@@ -15,7 +15,7 @@ Toate videoclipurile vor fi în format MPEG-4 (MP4 😉).
 ### Git Installation
 ```
 # clone the repo
-$ git clone https://github.com/print-alex/root.git
+$ git clone https://github.com/print-alex/FVD.git
 
 # change the working directory to Facebook-Video-Downloader
 $ cd Facebook-Video-Downloader
