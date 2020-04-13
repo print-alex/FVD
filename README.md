@@ -25,7 +25,7 @@ $ pip3 install -r requirements.txt
 ```
 ## Run the script 
 ```
-taseteaza 'python descarca.py' 'enter' 'si copiaza linkul care te face fericit/a.Vizionare Placuta' eu zic k ar fi bun for kids cartoons or for whathever  :)) 
+Tasteaza 'python descarca.py' 'enter' 'si copiaza linkul care te aranjeaza din facebook videos.Vizionare Placuta' eu zic k ar fi bun for kids cartoons or for whathever  :)) 
 ```
 
 ### Support & Contributions
