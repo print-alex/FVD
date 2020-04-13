@@ -25,7 +25,7 @@ $ pip3 install -r requirements.txt
 ```
 ## Usage
 ```
-python descarca.py 'enter' si baga linkul care te face fericit/a.Vizionare Placfuta :)) 
+taseteaza 'python descarca.py' 'enter' 'si baga linkul care te face fericit/a.Vizionare PlacFuta'  :)) 
 ```
 
 ### Support & Contributions
