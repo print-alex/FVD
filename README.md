@@ -14,23 +14,23 @@ Toate videoclipurile vor fi în format MPEG-4 (MP4 😉).
 
 ### Git Installation
 ```
-      # descarca repo
+# descarca repo
 $ git clone https://github.com/print-alex/FVD.git
 
-    # jump in the fucking folder./ FVD (Facebook Video Downloader)
+# jump in the fucking folder./ FVD (Facebook Video Downloader)
 $ cd FVD
 
-  # instaleaza requirements 
+# instaleaza requirements 
 $ pip3 install -r requirements.txt
 ```
-## Usage
+## Run the script 
 ```
 taseteaza 'python descarca.py' 'enter' 'si baga linkul care te face fericit/a.Vizionare PlacFuta'  :)) 
 ```
 
 ### Support & Contributions
 - Please ⭐️ this repository if this project helped you!
-- Contributions of any kind welcome!
+- Contributions of any kind welcome! 
 
 ## License
 GPL-3.0 ©[alex-savu](https://github.com/print-alex/)
