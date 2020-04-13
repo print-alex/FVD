@@ -3,7 +3,7 @@ from tqdm import tqdm
 import requests
 import re
 
-print(r'''
+print("\033[0;32m"r'''
 ______                _       _                       ______ _           
 (_____ \              | |     | |                     / _____|_)_         
  _____) )___ ____   _ | | ____| | ____ ____    ___   | /      _| |_ _   _ 
