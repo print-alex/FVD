@@ -31,7 +31,7 @@ $ pip3 install -r requirements.txt
 ```
 Tasteaza 'python descarca.py' si Enter -copiaza linkul care te aranjeaza din facebook videos.
 PS:eu zic k ar fi bun for kids cartoons or for whathever  :)) but anyway 5G is here 
-Vizionare Placuta...by AlexSavu aka :@nas @spamforlife @viper @intelligent_fraud @savuila @t00r 
+Vizionare Placuta...by AlexSavu aka :@nas @dadel @spamforlife @viper040688 @intelligent_fraud @savuila @t00r @xt00r
 ```
 
 ### Support & Contributions
