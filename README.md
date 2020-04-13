@@ -17,7 +17,7 @@ Toate videoclipurile vor fi în format MPEG-4 (MP4 😉).
 # descarca repo
 $ git clone https://github.com/print-alex/FVD.git
 
-# jump in the fucking folder./ FVD (Facebook Video Downloader)
+# acceseaza scriptul./ FVD (Facebook Video Downloader)
 $ cd FVD
 
 # instaleaza requirements 
@@ -25,7 +25,7 @@ $ pip3 install -r requirements.txt
 ```
 ## Run the script 
 ```
-taseteaza 'python descarca.py' 'enter' 'si baga linkul care te face fericit/a.Vizionare PlacFuta'  :)) 
+taseteaza 'python descarca.py' 'enter' 'si copiaza linkul care te face fericit/a.Vizionare Placuta' eu zic k ar fi bun for kids cartoons or for whathever  :)) 
 ```
 
 ### Support & Contributions
