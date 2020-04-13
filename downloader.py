@@ -17,7 +17,7 @@ ______                _       _                       ______ _
 
 ''')
 
-url = input("\nEnter the URL of Facebook video: ")
+url = input("\nBaga linkul narodule gen facebook.com/trebuiesafievideo: ")
 x = re.match(r'^(https:|)[/][/]www.([^/]+[.])*facebook.com', url)
 
 if x:
